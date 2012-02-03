@@ -2,7 +2,7 @@
 
 If necessary, backup and remove your <tt>~/.vim</tt> directory and <tt>~/.vimrc</tt> file.
 
-Clone this repository to <tt>~/git/</tt>
+Clone this repository to <tt>~/.vim/</tt>
 
 	git clone git@github.com:libingcun/vimconfig.git ~/.vim
 
