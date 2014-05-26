@@ -4,7 +4,7 @@ If necessary, backup and remove your <tt>~/.vim</tt> directory and <tt>~/.vimrc<
 
 Clone this repository to <tt>~/.vim/</tt>
 
-	git clone git@github.com:libingcun/vimconfig.git ~/.vim
+    git clone git@github.com:libingcun/vimconfig.git ~/.vim
 
 (If you're behind a firewall that blocks port 9418, replace <tt>git:</tt> with
  <tt>https:</tt> in the above URL.)
@@ -19,10 +19,10 @@ Finally, symlink <tt>.vimrc</tt>:
 
 ## Keeping up-to-date
 
-	    cd ~/.vim
-		    git pull
+    cd ~/.vim
+    git pull
 
 Then in vim:
 	
-	:helptags ~/.vim/doc
+    :helptags ~/.vim/doc
 
